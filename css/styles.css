@@ -1,0 +1,16 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
+body {
+  font-family: 'Exo 2', sans-serif;
+}
+
+h1 {
+  font-size: 4em;
+  margin: 25px 25px;
+}
